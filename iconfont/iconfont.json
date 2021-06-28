@@ -1,0 +1,37 @@
+{
+  "id": "2637785",
+  "name": "金融demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2742634",
+      "name": "行情",
+      "font_class": "hangqing",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "15112733",
+      "name": "理财",
+      "font_class": "licai",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "17868232",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "18174947",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
